@@ -1,5 +1,5 @@
 markload:redcarpet
-paginate: 4
+paginate:4
 
 gems:
  - jekyll-sitemap
