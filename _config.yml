@@ -1,6 +1,4 @@
 markload:redcarpet
 paginate:4
-
-gems:
- - jekyll-sitemap
+gems:-jekyll-sitemap
  
